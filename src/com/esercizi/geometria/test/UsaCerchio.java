@@ -1,4 +1,6 @@
-package com.esercizi.geometria;
+package com.esercizi.geometria.test;
+
+import com.esercizi.geometria.Cerchio;
 
 public class UsaCerchio {
 

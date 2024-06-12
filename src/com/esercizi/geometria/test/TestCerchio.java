@@ -1,6 +1,8 @@
-package com.esercizi.geometria;
+package com.esercizi.geometria.test;
 
 import javax.swing.JOptionPane;
+
+import com.esercizi.geometria.Cerchio;
 
 public class TestCerchio {
 
